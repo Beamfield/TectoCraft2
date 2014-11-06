@@ -11,6 +11,6 @@ public class CreativeTabTC2 extends CreativeTabs{
 		super(par2Str);
 	}
 	public Item getTabIconItem(){
-		return Item.getItemFromBlock(Blocks.bedrock);
+		return ModRegistry.logo;
 	}
 }

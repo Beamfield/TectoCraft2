@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 
 public class ItemIngot extends ItemBase {
 	public static final String[] TYPES = { "ingotCopper", "ingotTin", "ingotSteel", "ingotBronze", "ingotSilver", "ingotAluminum", "ingotNickel", "ingotLead",
-										   "dustCopper", "dustTin", "dustSteel", "dustBronze", "dustSilver", "dustAluminum", "dustNickel", "dustLead"};
+										   "dustCopper", "dustTin", "dustSteel", "dustBronze", "dustSilver", "dustAluminum", "dustNickel", "dustLead", "dustIron", "dustGold"};
 
 public static final String[] MATERIALS = { "Copper", "Tin", "Steel", "Bronze", "Silver", "Aluminum", "Nickel", "Lead" };
 

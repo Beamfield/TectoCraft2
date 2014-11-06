@@ -1,16 +1,18 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "TectoCraft2",
+  "name": "TectoCraft2",
+  "description": "Adds a hundred of useful Items/Blocks, energy generation, ore doubling etc.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Beamfield"],
+  "credits": "Thank you Mojang and the FML guys for making this possible!",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [
+  "MinecraftForge"
+  ]
 }
 ]
