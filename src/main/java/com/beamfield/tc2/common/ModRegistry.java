@@ -17,7 +17,7 @@ public class ModRegistry {
 			TC2Config.CONFIGURATION.load();
 			TC2.registerGenericIngots = TC2Config.CONFIGURATION.get("Recipes", "registerGenericIngots", true, "If set, the common Mod Ingots(for example tin, copper) will be registered in TC2 too.(Default: true)").getBoolean(true);
 			TC2.ingotGeneric = new ItemIngot();
-            GameRegistry.registerItem(TC2.ingotGeneric, "TC2Ingot");
+        		GameRegistry.registerItem(TC2.ingotGeneric, "TC2Ingot");
 			String itemName;
 			for(int i = 0; i < ItemIngot.TYPES.length; i++) {
 				itemName = ItemIngot.TYPES[i];
