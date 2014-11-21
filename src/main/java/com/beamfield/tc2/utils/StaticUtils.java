@@ -3,7 +3,6 @@ package com.beamfield.tc2.utils;
 import com.beamfield.tc2.common.CoordTriplet;
 import com.beamfield.tc2.common.TC2;
 
-import buildcraft.api.tools.IToolWrench;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
